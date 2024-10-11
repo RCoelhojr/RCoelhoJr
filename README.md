@@ -3,7 +3,7 @@
 I'm a Data Analyst passionate about turning data into actionable insights. My expertise lies in data visualization, SQL, and statistical analysis.
 
 ## 🛠️ Tools and Technologies
-- **Programming Languages:** SQL, R, DAX,Python
+- **Programming Languages:** SQL, R, DAX, Python
 - **Data Visualization:** Power BI, Tableau
 - **Databases:** , SQL Server, MySQL, PostgreSQL, SQLite
 - **Other Tools:** Excel, Git, Jupyter Notebooks
