@@ -1,4 +1,4 @@
-# Hi there, I'm [Ramilton] 👋
+# Hi there, I'm Ramilton 👋
 
 I'm a Data Analyst passionate about turning data into actionable insights. My expertise lies in data visualization, SQL, and statistical analysis.
 
