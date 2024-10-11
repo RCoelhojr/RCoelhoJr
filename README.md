@@ -19,4 +19,3 @@ I'm a Data Analyst passionate about turning data into actionable insights. My ex
 
 ## 📫 How to reach me
 - [LinkedIn](https://www.linkedin.com/in/rcoelhojr/)
-- [Email](ramiltoncoelho@gmail.com)
