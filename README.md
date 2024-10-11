@@ -9,7 +9,7 @@ I'm a Data Analyst passionate about turning data into actionable insights. My ex
 - **Other Tools:** Excel, Git, Jupyter Notebooks
 
 ## 📊 Featured Projects
-- **[ABsenteeism HR End-to-End project]([link-to-your-project](https://github.com/RCoelhojr/Absenteeism-HR-End-To-End-Project/blob/main/Files/Dashboard-Image.png))**:An entire process of ETL, the Dashboard Construction, and Data Analysis for an HR Department.
+- **[Absenteeism HR End-to-End project]([link-to-your-project](https://github.com/RCoelhojr/Absenteeism-HR-End-To-End-Project/blob/main/Files/Dashboard-Image.png))**:An entire process of ETL, the Dashboard Construction, and Data Analysis for an HR Department.
 
 
 
